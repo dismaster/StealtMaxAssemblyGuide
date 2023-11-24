@@ -1,2 +1,2 @@
-# StealtMaxAssemblyGuide
-Assembly Guide for Nevermore Stealthmax
+# StealthMax Assembly Guide
+Assembly Guide for Nevermore StealthMax
